@@ -1,2 +1,2 @@
-# dublaj-releases
-Dublaj installers and auto-update feed
+# vokuro-releases
+Vokuro installers and auto-update feed
